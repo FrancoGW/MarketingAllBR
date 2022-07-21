@@ -270,13 +270,13 @@ border: 1px solid rgba(0, 0, 0, 0.08);
     width: 100%;
     justify-content: center;
 }
-.card{
+.cardIndex{
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 2rem;
 }
-.card > img {
+.cardIndex > img {
     width: 150px;
 }
 
